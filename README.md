@@ -2,7 +2,9 @@
 
 A simple shopping cart web application built with Redux Toolkit, Tailwind CSS, React and React Icons. This application allows users to add products to a shopping cart and view the total price.
 
+💻️ Demo
 
+https://shopping-cart-reduxtoolkit.netlify.app/
 
 📝 Features
 
@@ -46,7 +48,7 @@ Copy code
 
 cd Shopping-cart
 
-* yarn install
+* yarn
 
 
 After installing the dependencies, you can start the development server:
