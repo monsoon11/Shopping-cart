@@ -44,7 +44,7 @@ bash
 
 Copy code
 
-* git clone https://github.com/monsoon11/Shopping-cart.git
+* git clone https://github.com/sameeprana/Shopping-cart.git
 
 cd Shopping-cart
 
